@@ -1,0 +1,26 @@
+*{
+    border: 0;
+    margin: 0;
+}
+
+#nav{
+    border-bottom: 1px gray solid;
+    position: relative;
+}
+
+div h1{
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+    float: right;     
+}
+img{
+    float: right;
+}
+div ul{
+    list-style: none;
+    text-align: justify;   
+}
+div li{
+    display: inline-block;
+}
