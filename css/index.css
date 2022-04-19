@@ -1,9 +1,26 @@
-main{
-    border: solid 1px red;
+*{
+    border: 0;
+    margin: 0;
 }
-h1{
-    border: solid 1px red;
+
+#nav{
+    border-bottom: 1px gray solid;
+    position: relative;
 }
-/*#nav{
-    border: solid 2px red;
-}*/
+
+div h1{
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+    float: right;     
+}
+img{
+    float: right;
+}
+div ul{
+    list-style: none;
+    text-align: justify;   
+}
+div li{
+    display: inline-block;
+}
